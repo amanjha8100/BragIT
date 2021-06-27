@@ -19,8 +19,6 @@ Our application provides the following functionalities :
 
 The ideation stage: After an intense brainstorming session it was apparent that the present social media apps - like Facebook, Twitter are a hit even after the rising claims of data thef on them,  and passionate people are always looking to meet others of the same interests, so we thought of keeping the idea behind such platform and discarding the parts which gave rise to such claims. And so we arrived at the idea to make an anonymous micro-blogging site for users to express themselves freely.
 
-UI: An easy-to-use and all-inclusive UI was our main priority and with that in mind we selected a neutral color palette and a material design that went along with our theme - minimalistic and simple. We designed the UI on Figma and spent hours refining the small details, but we still believe more potentialities are based on awaiting. The UI decisions were not easy and involved intense discussions. 
-
 The development stage: To divide the work evenly among teammates so that noone is pressured with a lot of responsibilities we decided to divide into two group, one to impletment a REST Api in the backend and another to create the UI and frontend logic using ReactJs, so that both these groups could work independently and efficiently.
 
 
